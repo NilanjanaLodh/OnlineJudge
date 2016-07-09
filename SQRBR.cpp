@@ -2,7 +2,7 @@
 /*
 *	Nilanjana Lodh
 *	Genre : DP
-*	Difficulty : Easy Medium
+*	Difficulty :  Medium
 * 	Misc : Should try to understand normal paranthesis printing before attempting this
 */
 
