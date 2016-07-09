@@ -1,5 +1,6 @@
 // Problem URL : http://www.spoj.com/problems/SQRBR/
 /*
+* Solution to problem SQRBR on spoj
 *	Nilanjana Lodh
 *	Genre : DP
 *	Difficulty :  Medium
