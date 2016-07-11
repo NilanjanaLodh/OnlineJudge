@@ -1,8 +1,9 @@
 // Problem URL : http://www.spoj.com/problems/SQRBR/
 /*
+* Solution to problem SQRBR on spoj
 *	Nilanjana Lodh
 *	Genre : DP
-*	Difficulty : Easy Medium
+*	Difficulty :  Medium
 * 	Misc : Should try to understand normal paranthesis printing before attempting this
 */
 
