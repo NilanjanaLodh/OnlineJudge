@@ -40,5 +40,6 @@ int main()
     DP=vector<vector<lli> >(n+5,vector<lli>(m +5 , -1));
     cout<<count_ways(n,m)<<endl;
     return 0;
+    
 }
 
