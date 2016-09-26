@@ -1,0 +1,2282 @@
+Initialize EditColourSet .....
+Initialize EditColourSet: done.
+Loading menubar...
+OpenFilesList: loaded
+CodeCompletion: loaded
+AStylePlugin: loaded
+FilesExtensionHandler: loaded
+Autosave: loaded
+Compiler: loaded
+ToDoList: loaded
+ScriptedWizard: loaded
+ClassWizard: loaded
+ProjectsImporter: loaded
+Debugger: loaded
+Open files list plugin activated
+Code completion plugin activated
+Source code formatter (AStyle) plugin activated
+Files extension handler plugin activated
+Autosave plugin activated
+Added compiler "GNU GCC Compiler"
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Added compiler "Intel C/C++ Compiler"
+Added compiler "GDC D Compiler"
+Added compiler "GNU Fortran Compiler"
+Added compiler "G95 Fortran Compiler"
+Added compiler "GNU GCC Compiler for ARM"
+Added compiler "Tiny C Compiler"
+Added compiler "LLVM Clang Compiler"
+Added compiler "GNU GCC Compiler for PowerPC"
+Added compiler "Digital Mars D Compiler"
+Added compiler "GNU GCC Compiler for TriCore"
+Added compiler "GNU GCC Compiler for MSP430"
+Added compiler "Small Device C Compiler"
+Added compiler "PGI Fortran Compiler"
+Added compiler "GNU GCC Compiler for AVR"
+Added compiler "LLVM D Compiler"
+Added compiler "*No Compiler*"
+Compiler plugin activated
+Todo List plugin activated
+Project wizard added for 'Empty project'
+Project wizard added for 'Fortran application'
+Project wizard added for 'Fortran library'
+Project wizard added for 'Fortran DLL'
+Project wizard added for 'Console application'
+Project wizard added for 'D application'
+Project wizard added for 'FLTK project'
+Project wizard added for 'GLFW project'
+Project wizard added for 'GLUT project'
+Project wizard added for 'GTK+ project'
+Project wizard added for 'Irrlicht project'
+Project wizard added for 'Lightfeather project'
+Project wizard added for 'Matlab project'
+Project wizard added for 'OpenCV project'
+Project wizard added for 'OpenGL project'
+Project wizard added for 'Ogre project'
+Project wizard added for 'Code::Blocks plugin'
+Project wizard added for 'QT4 project'
+Project wizard added for 'SDL project'
+Project wizard added for 'SFML project'
+Project wizard added for 'Static library'
+Project wizard added for 'Shared library'
+Project wizard added for 'wxWidgets project'
+Build-target wizard added for 'Console'
+Build-target wizard added for 'Static library'
+Build-target wizard added for 'wxWidgets'
+Project wizard added for 'ARM Project'
+Project wizard added for 'AVR Project'
+Project wizard added for 'TriCore Project'
+Project wizard added for 'PowerPC Project'
+Project wizard added for 'MCS51 Project'
+File(s) wizard added for 'Empty file'
+File(s) wizard added for 'C/C++ source'
+File(s) wizard added for 'C/C++ header'
+File(s) wizard added for 'Fortran source'
+Scripted wizard plugin activated
+Class wizard plugin activated
+Foreign projects importer plugin activated
+Debugger plugin activated
+Loading toolbar...
+Initializing plugins...
+Opening file /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+Mozilla universal detection engine detected 'Pure *ASCII*'.
+Final encoding detected: Unicode 8 bit (UTF-8) (ID: 41)
+Opening file /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::GetGCCCompilerDirs(): Caching GCC default include dir: /usr/include/c++/4.8
+NativeParser::GetGCCCompilerDirs(): Caching GCC default include dir: /usr/include/x86_64-linux-gnu/c++/4.8
+NativeParser::GetGCCCompilerDirs(): Caching GCC default include dir: /usr/include/c++/4.8/backward
+NativeParser::GetGCCCompilerDirs(): Caching GCC default include dir: /usr/lib/gcc/x86_64-linux-gnu/4.8/include
+NativeParser::GetGCCCompilerDirs(): Caching GCC default include dir: /usr/local/include
+NativeParser::GetGCCCompilerDirs(): Caching GCC default include dir: /usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed
+NativeParser::GetGCCCompilerDirs(): Caching GCC default include dir: /usr/include/x86_64-linux-gnu
+NativeParser::GetGCCCompilerDirs(): Caching GCC default include dir: /usr/include
+NativeParser::DoFullParsing(): AddCompilerPredefinedMacros failed!
+NativeParser::DoFullParsing(): Adding three kind of files to batch-parser
+NativeParser::DoFullParsing(): Add priority header file: '/usr/include/c++/4.8/cstddef'
+NativeParser::DoFullParsing(): Add 1 priority file(s) for project '*NONE*'...
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::CreateParser(): Finish creating a new parser for project '*NONE*'
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+NativeParser::OnParserStart(): Starting batch parsing for project '*NONE*'...
+ReadVarNames() : Unexpected token '((__unused__))' for 'union151___qnan_union', file '/usr/include/x86_64-linux-gnu/bits/nan.h', line 49.
+NativeParser::OnParserEnd(): Project '*NONE*' parsing stage done!
+Project '*NONE*' parsing stage done (203 total parsed files, 8604 tokens in 0 minute(s), 0.870 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+SystemHeadersThread: /usr/include/c++/4.8/ , 613
+SystemHeadersThread: /usr/include/x86_64-linux-gnu/c++/4.8/ , 23
+SystemHeadersThread: /usr/include/c++/4.8/backward/ , 8
+SystemHeadersThread: /usr/lib/gcc/x86_64-linux-gnu/4.8/include/ , 54
+SystemHeadersThread: /usr/local/include/ , 0
+SystemHeadersThread: /usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed/ , 3
+SystemHeadersThread: /usr/include/x86_64-linux-gnu/ , 276
+SystemHeadersThread: /usr/include/ , 1727
+SystemHeadersThread: /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/ , 3
+SystemHeadersThread: Total number of paths: 9
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8601 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8601 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8603 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8604 tokens in 0 minute(s), 0.017 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8605 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.017 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8607 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+The Parser is still parsing files. > Reasons:
+- still batch parse files to parse
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8607 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8607 tokens in 0 minute(s), 0.017 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8607 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8607 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8607 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8607 tokens in 0 minute(s), 0.017 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8607 tokens in 0 minute(s), 0.015 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8607 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8607 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8607 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8607 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8607 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8607 tokens in 0 minute(s), 0.015 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp:14:19: error: ‘>>’ should be ‘> >’ within a nested template argument list
+ vector<vector<bool>> m;
+                   ^
+/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp: In function ‘int main()’:
+/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp:26:31: error: ‘>>’ should be ‘> >’ within a nested template argument list
+         m = vector<vector<bool>>(r+1 , vli(c+1 , false));
+                               ^
+/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp:26:56: error: no matching function for call to ‘std::vector<std::vector<bool> >::vector(int, vli)’
+         m = vector<vector<bool>>(r+1 , vli(c+1 , false));
+                                                        ^
+/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp:26:56: note: candidates are:
+In file included from /usr/include/c++/4.8/vector:64:0,
+                 from /usr/include/c++/4.8/queue:61,
+                 from /usr/include/x86_64-linux-gnu/c++/4.8/bits/stdc++.h:85,
+                 from /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp:2:
+/usr/include/c++/4.8/bits/stl_vector.h:398:9: note: template<class _InputIterator> std::vector<_Tp, _Alloc>::vector(_InputIterator, _InputIterator, const allocator_type&)
+         vector(_InputIterator __first, _InputIterator __last,
+         ^
+/usr/include/c++/4.8/bits/stl_vector.h:398:9: note:   template argument deduction/substitution failed:
+/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp:26:56: note:   deduced conflicting types for parameter ‘_InputIterator’ (‘int’ and ‘std::vector<long long int>’)
+         m = vector<vector<bool>>(r+1 , vli(c+1 , false));
+                                                        ^
+In file included from /usr/include/c++/4.8/vector:64:0,
+                 from /usr/include/c++/4.8/queue:61,
+                 from /usr/include/x86_64-linux-gnu/c++/4.8/bits/stdc++.h:85,
+                 from /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp:2:
+/usr/include/c++/4.8/bits/stl_vector.h:310:7: note: std::vector<_Tp, _Alloc>::vector(const std::vector<_Tp, _Alloc>&) [with _Tp = std::vector<bool>; _Alloc = std::allocator<std::vector<bool> >]
+       vector(const vector& __x)
+       ^
+/usr/include/c++/4.8/bits/stl_vector.h:310:7: note:   candidate expects 1 argument, 2 provided
+/usr/include/c++/4.8/bits/stl_vector.h:295:7: note: std::vector<_Tp, _Alloc>::vector(std::vector<_Tp, _Alloc>::size_type, const value_type&, const allocator_type&) [with _Tp = std::vector<bool>; _Alloc = std::allocator<std::vector<bool> >; std::vector<_Tp, _Alloc>::size_type = long unsigned int; std::vector<_Tp, _Alloc>::value_type = std::vector<bool>; std::vector<_Tp, _Alloc>::allocator_type = std::allocator<std::vector<bool> >]
+       vector(size_type __n, const value_type& __value = value_type(),
+       ^
+/usr/include/c++/4.8/bits/stl_vector.h:295:7: note:   no known conversion for argument 2 from ‘vli {aka std::vector<long long int>}’ to ‘const value_type& {aka const std::vector<bool>&}’
+/usr/include/c++/4.8/bits/stl_vector.h:256:7: note: std::vector<_Tp, _Alloc>::vector(const allocator_type&) [with _Tp = std::vector<bool>; _Alloc = std::allocator<std::vector<bool> >; std::vector<_Tp, _Alloc>::allocator_type = std::allocator<std::vector<bool> >]
+       vector(const allocator_type& __a)
+       ^
+/usr/include/c++/4.8/bits/stl_vector.h:256:7: note:   candidate expects 1 argument, 2 provided
+/usr/include/c++/4.8/bits/stl_vector.h:248:7: note: std::vector<_Tp, _Alloc>::vector() [with _Tp = std::vector<bool>; _Alloc = std::allocator<std::vector<bool> >]
+       vector()
+       ^
+/usr/include/c++/4.8/bits/stl_vector.h:248:7: note:   candidate expects 0 arguments, 2 provided
+Process terminated with status 1 (0 minute(s), 1 second(s))
+3 error(s), 0 warning(s) (0 minute(s), 1 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8607 tokens in 0 minute(s), 0.015 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8607 tokens in 0 minute(s), 0.011 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp: In function ‘int main()’:
+/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp:26:57: error: no matching function for call to ‘std::vector<std::vector<bool> >::vector(int, vli)’
+         m = vector<vector<bool> >(r+1 , vli(c+1 , false));
+                                                         ^
+/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp:26:57: note: candidates are:
+In file included from /usr/include/c++/4.8/vector:64:0,
+                 from /usr/include/c++/4.8/queue:61,
+                 from /usr/include/x86_64-linux-gnu/c++/4.8/bits/stdc++.h:85,
+                 from /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp:2:
+/usr/include/c++/4.8/bits/stl_vector.h:398:9: note: template<class _InputIterator> std::vector<_Tp, _Alloc>::vector(_InputIterator, _InputIterator, const allocator_type&)
+         vector(_InputIterator __first, _InputIterator __last,
+         ^
+/usr/include/c++/4.8/bits/stl_vector.h:398:9: note:   template argument deduction/substitution failed:
+/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp:26:57: note:   deduced conflicting types for parameter ‘_InputIterator’ (‘int’ and ‘std::vector<long long int>’)
+         m = vector<vector<bool> >(r+1 , vli(c+1 , false));
+                                                         ^
+In file included from /usr/include/c++/4.8/vector:64:0,
+                 from /usr/include/c++/4.8/queue:61,
+                 from /usr/include/x86_64-linux-gnu/c++/4.8/bits/stdc++.h:85,
+                 from /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp:2:
+/usr/include/c++/4.8/bits/stl_vector.h:310:7: note: std::vector<_Tp, _Alloc>::vector(const std::vector<_Tp, _Alloc>&) [with _Tp = std::vector<bool>; _Alloc = std::allocator<std::vector<bool> >]
+       vector(const vector& __x)
+       ^
+/usr/include/c++/4.8/bits/stl_vector.h:310:7: note:   candidate expects 1 argument, 2 provided
+/usr/include/c++/4.8/bits/stl_vector.h:295:7: note: std::vector<_Tp, _Alloc>::vector(std::vector<_Tp, _Alloc>::size_type, const value_type&, const allocator_type&) [with _Tp = std::vector<bool>; _Alloc = std::allocator<std::vector<bool> >; std::vector<_Tp, _Alloc>::size_type = long unsigned int; std::vector<_Tp, _Alloc>::value_type = std::vector<bool>; std::vector<_Tp, _Alloc>::allocator_type = std::allocator<std::vector<bool> >]
+       vector(size_type __n, const value_type& __value = value_type(),
+       ^
+/usr/include/c++/4.8/bits/stl_vector.h:295:7: note:   no known conversion for argument 2 from ‘vli {aka std::vector<long long int>}’ to ‘const value_type& {aka const std::vector<bool>&}’
+/usr/include/c++/4.8/bits/stl_vector.h:256:7: note: std::vector<_Tp, _Alloc>::vector(const allocator_type&) [with _Tp = std::vector<bool>; _Alloc = std::allocator<std::vector<bool> >; std::vector<_Tp, _Alloc>::allocator_type = std::allocator<std::vector<bool> >]
+       vector(const allocator_type& __a)
+       ^
+/usr/include/c++/4.8/bits/stl_vector.h:256:7: note:   candidate expects 1 argument, 2 provided
+/usr/include/c++/4.8/bits/stl_vector.h:248:7: note: std::vector<_Tp, _Alloc>::vector() [with _Tp = std::vector<bool>; _Alloc = std::allocator<std::vector<bool> >]
+       vector()
+       ^
+/usr/include/c++/4.8/bits/stl_vector.h:248:7: note:   candidate expects 0 arguments, 2 provided
+Process terminated with status 1 (0 minute(s), 0 second(s))
+1 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1 /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o   
+Process terminated with status 0 (0 minute(s), 1 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 1 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8607 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8607 tokens in 0 minute(s), 0.017 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8607 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8607 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8607 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8607 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8607 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+The Parser is still parsing files. > Reasons:
+- still batch parse files to parse
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8607 tokens in 0 minute(s), 0.036 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8607 tokens in 0 minute(s), 0.014 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8607 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8607 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8607 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8608 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8608 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8608 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8608 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8608 tokens in 0 minute(s), 0.015 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8608 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+The Parser is still parsing files. > Reasons:
+- still batch parse files to parse
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8608 tokens in 0 minute(s), 0.011 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8608 tokens in 0 minute(s), 0.011 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8608 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8608 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8608 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8608 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.015 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+The Parser is still parsing files. > Reasons:
+- still batch parse files to parse
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.015 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.015 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+The Parser is still parsing files. > Reasons:
+- still batch parse files to parse
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.018 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.015 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.015 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1 /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o   
+Process terminated with status 0 (0 minute(s), 1 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 1 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.017 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.017 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1 /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o   
+Process terminated with status 0 (0 minute(s), 1 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 1 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1 /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o   
+Process terminated with status 0 (0 minute(s), 1 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 1 second(s))
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1 /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o   
+Process terminated with status 0 (0 minute(s), 1 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 1 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.015 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.015 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.017 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.015 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.015 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.026 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.017 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.017 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp: In function ‘int main()’:
+/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp:41:10: error: ‘T’ was not declared in this scope
+     cin>>T;
+          ^
+/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp:45:20: error: ‘k’ was not declared in this scope
+         cin>>r>>c>>k;
+                    ^
+/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp:58:13: error: ‘j’ was not declared in this scope
+         for(j=0;j<=c;j++)
+             ^
+Process terminated with status 1 (0 minute(s), 0 second(s))
+3 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.017 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.046 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1 /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o   
+Process terminated with status 0 (0 minute(s), 1 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 1 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+The Parser is still parsing files. > Reasons:
+- still batch parse files to parse
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.038 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.014 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.014 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8610 tokens in 0 minute(s), 0.038 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8610 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8607 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8608 tokens in 0 minute(s), 0.019 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8608 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.017 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.015 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.014 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp: In function ‘int main()’:
+/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp:30:9: error: reference to ‘left’ is ambiguous
+         left = vector<vli>(r+1 , vli(c+1,0));
+         ^
+/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp:17:13: note: candidates are: std::vector<std::vector<long long int> > left
+ vector<vli> left;
+             ^
+In file included from /usr/include/c++/4.8/ios:42:0,
+                 from /usr/include/c++/4.8/istream:38,
+                 from /usr/include/c++/4.8/sstream:38,
+                 from /usr/include/c++/4.8/complex:45,
+                 from /usr/include/x86_64-linux-gnu/c++/4.8/bits/stdc++.h:66,
+                 from /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp:2:
+/usr/include/c++/4.8/bits/ios_base.h:922:3: note:                 std::ios_base& std::left(std::ios_base&)
+   left(ios_base& __base)
+   ^
+/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp:50:45: error: reference to ‘left’ is ambiguous
+                     diag[i][j]= top[i][j] = left[i][j] = 0 ;
+                                             ^
+/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp:17:13: note: candidates are: std::vector<std::vector<long long int> > left
+ vector<vli> left;
+             ^
+In file included from /usr/include/c++/4.8/ios:42:0,
+                 from /usr/include/c++/4.8/istream:38,
+                 from /usr/include/c++/4.8/sstream:38,
+                 from /usr/include/c++/4.8/complex:45,
+                 from /usr/include/x86_64-linux-gnu/c++/4.8/bits/stdc++.h:66,
+                 from /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp:2:
+/usr/include/c++/4.8/bits/ios_base.h:922:3: note:                 std::ios_base& std::left(std::ios_base&)
+   left(ios_base& __base)
+   ^
+Process terminated with status 1 (0 minute(s), 0 second(s))
+2 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp: In function ‘int main()’:
+/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp:50:45: error: reference to ‘left’ is ambiguous
+                     diag[i][j]= top[i][j] = left[i][j] = 0 ;
+                                             ^
+/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp:17:13: note: candidates are: std::vector<std::vector<long long int> > left
+ vector<vli> left;
+             ^
+In file included from /usr/include/c++/4.8/ios:42:0,
+                 from /usr/include/c++/4.8/istream:38,
+                 from /usr/include/c++/4.8/sstream:38,
+                 from /usr/include/c++/4.8/complex:45,
+                 from /usr/include/x86_64-linux-gnu/c++/4.8/bits/stdc++.h:66,
+                 from /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp:2:
+/usr/include/c++/4.8/bits/ios_base.h:922:3: note:                 std::ios_base& std::left(std::ios_base&)
+   left(ios_base& __base)
+   ^
+Process terminated with status 1 (0 minute(s), 0 second(s))
+1 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.017 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp: In function ‘int main()’:
+/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp:50:51: warning: pointer to a function used in arithmetic [-Wpointer-arith]
+                     diag[i][j]= top[i][j] = left[i][j] = 0 ;
+                                                   ^
+/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp:50:54: warning: pointer to a function used in arithmetic [-Wpointer-arith]
+                     diag[i][j]= top[i][j] = left[i][j] = 0 ;
+                                                      ^
+/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp:50:56: error: assignment of read-only location ‘*(std::left + (((sizetype)i) + ((sizetype)j)))’
+                     diag[i][j]= top[i][j] = left[i][j] = 0 ;
+                                                        ^
+/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp:50:56: error: cannot convert ‘int’ to ‘std::ios_base&(std::ios_base&)’ in assignment
+Process terminated with status 1 (0 minute(s), 0 second(s))
+2 error(s), 2 warning(s) (0 minute(s), 0 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1 /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.017 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.017 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.017 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.038 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.015 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1 /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8609 tokens in 0 minute(s), 0.014 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8610 tokens in 0 minute(s), 0.014 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8610 tokens in 0 minute(s), 0.015 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8610 tokens in 0 minute(s), 0.015 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8610 tokens in 0 minute(s), 0.017 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8610 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1 /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8610 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8610 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8610 tokens in 0 minute(s), 0.014 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8610 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.014 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.051 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.054 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1 /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o   
+Process terminated with status 0 (0 minute(s), 1 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 1 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1 /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.056 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.092 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+The Parser is still parsing files. > Reasons:
+- still batch parse files to parse
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1 /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp:77:9: error: stray ‘\305’ in program
+         cout<<"Case #"<<t<<": "<<sumŔ<<endl;
+         ^
+/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp:77:9: error: stray ‘\224’ in program
+Process terminated with status 1 (0 minute(s), 0 second(s))
+2 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.014 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1 /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1 /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1 /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o   
+Process terminated with status 0 (0 minute(s), 1 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 1 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.017 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.017 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1 /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o   
+Process terminated with status 0 (0 minute(s), 1 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 1 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.014 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1 /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o   
+Process terminated with status 0 (0 minute(s), 1 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 1 second(s))
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1 /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o   
+Process terminated with status 0 (0 minute(s), 1 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 1 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.014 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.015 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.017 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.015 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.017 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1 /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.017 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1 /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o   
+Process terminated with status 0 (0 minute(s), 1 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 1 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+The Parser is still parsing files. > Reasons:
+- still batch parse files to parse
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.017 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1 /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o   
+Process terminated with status 0 (0 minute(s), 1 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 1 second(s))
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1 /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o   
+Process terminated with status 0 (0 minute(s), 1 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 1 second(s))
+Process terminated with status 0 (0 minute(s), 4 second(s))
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1 /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o   
+Process terminated with status 0 (0 minute(s), 1 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 1 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1 /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o   
+Process terminated with status 0 (0 minute(s), 1 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 1 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.045 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.018 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+The Parser is still parsing files. > Reasons:
+- still batch parse files to parse
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.015 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1 /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o   
+Process terminated with status 0 (0 minute(s), 1 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 1 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1 /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o   
+Process terminated with status 0 (0 minute(s), 1 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 1 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1 /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o   
+Process terminated with status 0 (0 minute(s), 1 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 1 second(s))
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1 /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.015 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1 /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o   
+Process terminated with status 0 (0 minute(s), 1 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 1 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.028 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.015 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.014 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.014 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+The Parser is still parsing files. > Reasons:
+- still batch parse files to parse
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.014 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.017 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1 /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1 /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o   
+Process terminated with status 0 (0 minute(s), 1 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 1 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+The Parser is still parsing files. > Reasons:
+- still batch parse files to parse
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.017 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1 /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o   
+Process terminated with status 0 (0 minute(s), 1 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 1 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.017 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1 /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o   
+Process terminated with status 0 (0 minute(s), 1 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 1 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.015 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1 /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.o   
+Process terminated with status 0 (0 minute(s), 1 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 1 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8611 tokens in 0 minute(s), 0.017 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/GCJ' for: p1.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/GCJ/p1.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.

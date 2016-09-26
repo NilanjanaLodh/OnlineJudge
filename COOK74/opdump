@@ -1,0 +1,1897 @@
+Initialize EditColourSet .....
+Initialize EditColourSet: done.
+Loading menubar...
+OpenFilesList: loaded
+CodeCompletion: loaded
+AStylePlugin: loaded
+FilesExtensionHandler: loaded
+Autosave: loaded
+Compiler: loaded
+ToDoList: loaded
+ScriptedWizard: loaded
+ClassWizard: loaded
+ProjectsImporter: loaded
+Debugger: loaded
+Open files list plugin activated
+Code completion plugin activated
+Source code formatter (AStyle) plugin activated
+Files extension handler plugin activated
+Autosave plugin activated
+Added compiler "GNU GCC Compiler"
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Added compiler "Intel C/C++ Compiler"
+Added compiler "GDC D Compiler"
+Added compiler "GNU Fortran Compiler"
+Added compiler "G95 Fortran Compiler"
+Added compiler "GNU GCC Compiler for ARM"
+Added compiler "Tiny C Compiler"
+Added compiler "LLVM Clang Compiler"
+Added compiler "GNU GCC Compiler for PowerPC"
+Added compiler "Digital Mars D Compiler"
+Added compiler "GNU GCC Compiler for TriCore"
+Added compiler "GNU GCC Compiler for MSP430"
+Added compiler "Small Device C Compiler"
+Added compiler "PGI Fortran Compiler"
+Added compiler "GNU GCC Compiler for AVR"
+Added compiler "LLVM D Compiler"
+Added compiler "*No Compiler*"
+Compiler plugin activated
+Todo List plugin activated
+Project wizard added for 'Empty project'
+Project wizard added for 'Fortran application'
+Project wizard added for 'Fortran library'
+Project wizard added for 'Fortran DLL'
+Project wizard added for 'Console application'
+Project wizard added for 'D application'
+Project wizard added for 'FLTK project'
+Project wizard added for 'GLFW project'
+Project wizard added for 'GLUT project'
+Project wizard added for 'GTK+ project'
+Project wizard added for 'Irrlicht project'
+Project wizard added for 'Lightfeather project'
+Project wizard added for 'Matlab project'
+Project wizard added for 'OpenCV project'
+Project wizard added for 'OpenGL project'
+Project wizard added for 'Ogre project'
+Project wizard added for 'Code::Blocks plugin'
+Project wizard added for 'QT4 project'
+Project wizard added for 'SDL project'
+Project wizard added for 'SFML project'
+Project wizard added for 'Static library'
+Project wizard added for 'Shared library'
+Project wizard added for 'wxWidgets project'
+Build-target wizard added for 'Console'
+Build-target wizard added for 'Static library'
+Build-target wizard added for 'wxWidgets'
+Project wizard added for 'ARM Project'
+Project wizard added for 'AVR Project'
+Project wizard added for 'TriCore Project'
+Project wizard added for 'PowerPC Project'
+Project wizard added for 'MCS51 Project'
+File(s) wizard added for 'Empty file'
+File(s) wizard added for 'C/C++ source'
+File(s) wizard added for 'C/C++ header'
+File(s) wizard added for 'Fortran source'
+Scripted wizard plugin activated
+Class wizard plugin activated
+Foreign projects importer plugin activated
+Debugger plugin activated
+Loading toolbar...
+Initializing plugins...
+Opening file /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+Mozilla universal detection engine detected 'Pure *ASCII*'.
+Final encoding detected: Unicode 8 bit (UTF-8) (ID: 41)
+Opening file /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::GetGCCCompilerDirs(): Caching GCC default include dir: /usr/include/c++/4.8
+NativeParser::GetGCCCompilerDirs(): Caching GCC default include dir: /usr/include/x86_64-linux-gnu/c++/4.8
+NativeParser::GetGCCCompilerDirs(): Caching GCC default include dir: /usr/include/c++/4.8/backward
+NativeParser::GetGCCCompilerDirs(): Caching GCC default include dir: /usr/lib/gcc/x86_64-linux-gnu/4.8/include
+NativeParser::GetGCCCompilerDirs(): Caching GCC default include dir: /usr/local/include
+NativeParser::GetGCCCompilerDirs(): Caching GCC default include dir: /usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed
+NativeParser::GetGCCCompilerDirs(): Caching GCC default include dir: /usr/include/x86_64-linux-gnu
+NativeParser::GetGCCCompilerDirs(): Caching GCC default include dir: /usr/include
+NativeParser::DoFullParsing(): AddCompilerPredefinedMacros failed!
+NativeParser::DoFullParsing(): Adding three kind of files to batch-parser
+NativeParser::DoFullParsing(): Add priority header file: '/usr/include/c++/4.8/cstddef'
+NativeParser::DoFullParsing(): Add 1 priority file(s) for project '*NONE*'...
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::CreateParser(): Finish creating a new parser for project '*NONE*'
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+NativeParser::OnParserStart(): Starting batch parsing for project '*NONE*'...
+ReadVarNames() : Unexpected token '((__unused__))' for 'union151___qnan_union', file '/usr/include/x86_64-linux-gnu/bits/nan.h', line 49.
+NativeParser::OnParserEnd(): Project '*NONE*' parsing stage done!
+Project '*NONE*' parsing stage done (203 total parsed files, 8604 tokens in 0 minute(s), 0.874 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+SystemHeadersThread: /usr/include/c++/4.8/ , 613
+SystemHeadersThread: /usr/include/x86_64-linux-gnu/c++/4.8/ , 23
+SystemHeadersThread: /usr/include/c++/4.8/backward/ , 8
+SystemHeadersThread: /usr/lib/gcc/x86_64-linux-gnu/4.8/include/ , 54
+SystemHeadersThread: /usr/local/include/ , 0
+SystemHeadersThread: /usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed/ , 3
+SystemHeadersThread: /usr/include/x86_64-linux-gnu/ , 276
+SystemHeadersThread: /usr/include/ , 1727
+SystemHeadersThread: /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/ , 1
+SystemHeadersThread: Total number of paths: 9
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8603 tokens in 0 minute(s), 0.015 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8603 tokens in 0 minute(s), 0.015 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8604 tokens in 0 minute(s), 0.017 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8604 tokens in 0 minute(s), 0.031 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8604 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8604 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8604 tokens in 0 minute(s), 0.017 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8605 tokens in 0 minute(s), 0.017 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8605 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8605 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8605 tokens in 0 minute(s), 0.033 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8605 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8605 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8605 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+The Parser is still parsing files. > Reasons:
+- still batch parse files to parse
+The Parser is still parsing files. > Reasons:
+- still batch parse files to parse
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8605 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8605 tokens in 0 minute(s), 0.014 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8605 tokens in 0 minute(s), 0.023 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8605 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8605 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8605 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.021 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.014 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8607 tokens in 0 minute(s), 0.014 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8607 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8607 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8607 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8607 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8607 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8607 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8608 tokens in 0 minute(s), 0.015 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.014 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.036 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.017 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.011 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o   
+Process terminated with status 0 (0 minute(s), 1 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 1 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Process terminated with status 0 (0 minute(s), 4 second(s))
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Process terminated with status 0 (0 minute(s), 3 second(s))
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Process terminated with status 0 (0 minute(s), 6 second(s))
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Process terminated with status 0 (0 minute(s), 2 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Process terminated with status 0 (0 minute(s), 8 second(s))
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Process terminated with status 0 (0 minute(s), 5 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+The Parser is still parsing files. > Reasons:
+- still batch parse files to parse
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+The Parser is still parsing files. > Reasons:
+- still batch parse files to parse
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o   
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 0 has invalid symbol index 11
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 1 has invalid symbol index 12
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 2 has invalid symbol index 2
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 3 has invalid symbol index 2
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 4 has invalid symbol index 11
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 5 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 6 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 7 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 8 has invalid symbol index 12
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 9 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 10 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 11 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 12 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 13 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 14 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 15 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 16 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 17 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 18 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 19 has invalid symbol index 21
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_line): relocation 0 has invalid symbol index 2
+/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o: In function `_start':
+(.text+0x20): undefined reference to `main'
+collect2: error: ld returned 1 exit status
+Process terminated with status 1 (0 minute(s), 0 second(s))
+1 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o   
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 0 has invalid symbol index 11
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 1 has invalid symbol index 12
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 2 has invalid symbol index 2
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 3 has invalid symbol index 2
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 4 has invalid symbol index 11
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 5 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 6 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 7 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 8 has invalid symbol index 12
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 9 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 10 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 11 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 12 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 13 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 14 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 15 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 16 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 17 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 18 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 19 has invalid symbol index 21
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_line): relocation 0 has invalid symbol index 2
+/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o: In function `_start':
+(.text+0x20): undefined reference to `main'
+collect2: error: ld returned 1 exit status
+Process terminated with status 1 (0 minute(s), 0 second(s))
+1 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o   
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 0 has invalid symbol index 11
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 1 has invalid symbol index 12
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 2 has invalid symbol index 2
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 3 has invalid symbol index 2
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 4 has invalid symbol index 11
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 5 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 6 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 7 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 8 has invalid symbol index 12
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 9 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 10 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 11 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 12 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 13 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 14 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 15 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 16 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 17 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 18 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 19 has invalid symbol index 21
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_line): relocation 0 has invalid symbol index 2
+/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o: In function `_start':
+(.text+0x20): undefined reference to `main'
+collect2: error: ld returned 1 exit status
+Process terminated with status 1 (0 minute(s), 0 second(s))
+1 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o   
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 0 has invalid symbol index 11
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 1 has invalid symbol index 12
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 2 has invalid symbol index 2
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 3 has invalid symbol index 2
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 4 has invalid symbol index 11
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 5 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 6 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 7 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 8 has invalid symbol index 12
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 9 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 10 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 11 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 12 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 13 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 14 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 15 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 16 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 17 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 18 has invalid symbol index 13
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_info): relocation 19 has invalid symbol index 21
+/usr/bin/ld: /usr/lib/debug/usr/lib/x86_64-linux-gnu/crt1.o(.debug_line): relocation 0 has invalid symbol index 2
+/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o: In function `_start':
+(.text+0x20): undefined reference to `main'
+collect2: error: ld returned 1 exit status
+Process terminated with status 1 (0 minute(s), 0 second(s))
+1 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Process terminated with status 0 (0 minute(s), 5 second(s))
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Process terminated with status 0 (0 minute(s), 3 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.017 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Process terminated with status 0 (0 minute(s), 5 second(s))
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Process terminated with status 0 (0 minute(s), 7 second(s))
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Process terminated with status 0 (0 minute(s), 8 second(s))
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Process terminated with status 0 (0 minute(s), 8 second(s))
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Process terminated with status 0 (0 minute(s), 2 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.015 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Process terminated with status 0 (1 minute(s), 8 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.014 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: anishda.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/anishda.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+NativeParser::OnParserStart(): Starting add file parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8606 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: anishda.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/anishda.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/anishda.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8607 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: anishda.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/anishda.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Process terminated with status 0 (1 minute(s), 25 second(s))
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/anishda.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/anishda.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/anishda /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/anishda.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Process terminated with status 0 (0 minute(s), 16 second(s))
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/anishda.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/anishda.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/anishda /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/anishda.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Process terminated with status 0 (0 minute(s), 4 second(s))
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8607 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8608 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8608 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8608 tokens in 0 minute(s), 0.015 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8608 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Process terminated with status 0 (0 minute(s), 11 second(s))
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Process terminated with status 0 (0 minute(s), 10 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8608 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Process terminated with status 0 (0 minute(s), 10 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8608 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8608 tokens in 0 minute(s), 0.015 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8608 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8608 tokens in 0 minute(s), 0.017 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8608 tokens in 0 minute(s), 0.017 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Process terminated with status 0 (101 minute(s), 36 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8608 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8608 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8607 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8606 tokens in 0 minute(s), 0.018 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+The Parser is still parsing files. > Reasons:
+- still batch parse files to parse
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8607 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8608 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8608 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8608 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8608 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8608 tokens in 0 minute(s), 0.011 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8608 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8608 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8608 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8608 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8608 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8608 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8608 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8608 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.018 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.019 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.014 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.015 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp: In function ‘int anish()’:
+/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp:28:10: error: ‘s’ was not declared in this scope
+  for(i=0;s[i]!='\0';i++)
+          ^
+/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp: In function ‘int main()’:
+/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp:68:17: error: ‘ways’ was not declared in this scope
+     cout<<ways(l)<<endl;
+                 ^
+Process terminated with status 1 (0 minute(s), 0 second(s))
+2 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.015 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp: In function ‘int main()’:
+/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp:68:17: error: ‘ways’ was not declared in this scope
+     cout<<ways(l)<<endl;
+                 ^
+Process terminated with status 1 (0 minute(s), 0 second(s))
+1 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.017 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.011 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.011 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.014 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.017 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+The Parser is still parsing files. > Reasons:
+- still batch parse files to parse
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.018 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp: In function ‘int main()’:
+/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp:66:21: error: ‘k’ was not declared in this scope
+         le[i]= ((le[k-1] - 1)*26)  + 1*('Z'-s[i]+1) ;
+                     ^
+Process terminated with status 1 (0 minute(s), 0 second(s))
+1 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Process terminated with status 0 (0 minute(s), 18 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp: In function ‘int main()’:
+/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp:65:41: error: ‘m’ was not declared in this scope
+         le[i]= (    (((le[i-1] - 1)*26)%m)  +    (1*('Z'-s[i]+1)%m)  )%m ;
+                                         ^
+Process terminated with status 1 (0 minute(s), 0 second(s))
+1 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.014 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Process terminated with status 0 (0 minute(s), 44 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Process terminated with status 0 (0 minute(s), 10 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8604 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8603 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Process terminated with status 0 (0 minute(s), 12 second(s))
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Process terminated with status 0 (0 minute(s), 8 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8603 tokens in 0 minute(s), 0.041 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8603 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8603 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8603 tokens in 0 minute(s), 0.013 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+g++   -c /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o
+g++  -o /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+Process terminated with status 0 (0 minute(s), 4 second(s))
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8603 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8603 tokens in 0 minute(s), 0.015 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8603 tokens in 0 minute(s), 0.016 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8603 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8602 tokens in 0 minute(s), 0.012 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (204 total parsed files, 8602 tokens in 0 minute(s), 0.015 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Reparsing when typing for editor /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+NativeParser::OnParserStart(): Starting re-parsing for project '*NONE*'...
+Project '*NONE*' parsing stage done (203 total parsed files, 8602 tokens in 0 minute(s), 0.015 seconds).
+ClassBrowser::UpdateClassBrowserView(): No active project available.
+NativeParser::GetAllPathsByFilename(): Traversing '/home/hermoi-nil/Desktop/code/OnlineJudge/COOK74' for: TACNSTR.*
+NativeParser::GetAllPathsByFilename(): Found 1 files:
+- /home/hermoi-nil/Desktop/code/OnlineJudge/COOK74/TACNSTR.cpp
+ClassBrowser::OnThreadEvent(): Updating class browser...
+ClassBrowser::OnThreadEvent(): Class browser updated.
+Deinitializing plugins...
