@@ -2,26 +2,18 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-typedef long long int lli;
-typedef vector<int> vi;
-typedef vector<lli> vli;
 
-const lli inf= 9000000000000;
-const lli mod= 1000000007;
+
 
 bool isprime[1000006];
-lli LPD[1000006];
+int LPD[1000006];
 
-lli maximum(lli a , lli b)
-{
-    if(a>b)return a;
-    return b;
-}
-void precalc(lli n=1000000)
+
+void precalc(int n=1000000)
 {
     memset(isprime, true , sizeof(bool)*(n+1));
 
-    lli p,i;
+    int p,i;
     for(i=1;i<=n;i++)
     LPD[i]= i;
 
@@ -46,115 +38,96 @@ void precalc(lli n=1000000)
 //    }
 }
 
-lli a[1000006];
-lli n; /// number of elements
-lli tree[4000909];
+int a[1000006];
+int n; /// number of elements
+int tree[4000909];
 
-void build(lli root=1, lli left = 0, lli right = (n-1))
+void build(int root=1, int start = 0, int end = (n-1))
 {
-    if(left==right)
+    if(start==end)
     {
-        tree[root]= LPD[a[left]];
+        tree[root]= LPD[a[start]];
     }
 
     else
     {
-        lli mid = (left + right )/2 ;
-        build(2*root , left , mid);
-        build(2*root + 1 , mid+1 , right);
+        int mid = (start + end )/2 ;
+        build(2*root , start , mid);
+        build(2*root + 1 , mid+1 , end);
 
-        tree[root]= maximum(tree[2*root] , tree[2*root + 1]);
+        tree[root]= max(tree[2*root] , tree[2*root + 1]);
     }
+
+    //cout<<"built range ["<<start<<" , "<<end<<"]  :"<<tree[root]<<endl;
 }
 
-lli query(lli start, lli end , lli root= 1 , lli left = 0, lli right = (n-1))
+void updateRange(int l , int r, int root=1, int s=0, int e= (n-1))
 {
-    if(end<left || start>right)
+    if(s>e or e<l or r<s)
+        return;
+
+    if(tree[root]==1)
+        return ;
+
+    if(s==e)
+    {
+        a[s]= a[s]/LPD[a[s]] ;
+        tree[root] = LPD[a[s]];
+    }
+    else
+    {
+        int mid= (s+e)/2;
+        updateRange(l,r,2*root, s, mid);
+        updateRange(l,r, 2*root + 1 , mid+1 , e);
+
+        tree[root]=max(tree[2*root] , tree[2 * root  + 1]);
+    }
+}
+int query(int l, int r, int root=1 , int s=0, int e=(n-1))
+{
+    if(e<l or r<s)
         return 0;
 
-    if(left<= start && end<=right)
+    if(l<=s and e<=r)
         return tree[root];
 
-    else
-    {
-        lli mid = (left + right ) / 2;
-        return maximum(query(start, end , 2*root , left , mid) , query(start, end , 2*root + 1 , mid + 1 , right ));
-    }
+    int mid =(s + e)/2;
+    return max(query(l,r,2*root, s, mid), query(l,r,2*root + 1, mid+1 , e));
+
+
 }
-
-void update(lli start , lli end , lli root = 1 , lli left= 0 , lli right = (n-1))
-{
-    /// range update ..
-    if(end<left || start> right)
-        return ;
-    /// for evry no. in start to end .. divide it by the lpd .. you get a new number a'[i]  ..
-    /// the update is ..  tree[root] = lpd[a'[i]]
-
-    if(tree[root] == 1)
-    {
-        return ;
-    }
-
-    if(left==right)
-    {
-        a[left] = a[left] / LPD[a[left]];
-        tree[root] = LPD[a[left]];
-        return ;
-    }
-
-    lli mid  = (left + right ) / 2;
-    update(start , end , 2*root ,  left , mid );
-    update(start , end , 2*root + 1 , mid + 1 , right );
-
-    tree[root] = maximum( tree[2*root] , tree[2*root + 1]);
-}
-
 
 int main()
 {
-    lli t, i, m, q , s , e;
-    cin>>t;
+    int t, i, m, q , l , r;
+    scanf("%d", &t);
     precalc();
 
     while(t--)
     {
 
-        cin>>n>>m;
-        //cout<<"n is "<<n<<endl;
+        scanf("%d%d",&n,&m);
         for(i=0;i<n;i++)
         {
             cin>>a[i];
         }
+        build();
         while(m--)
         {
-            cin>>q>>s>>e;
-            s--; e--;
+            scanf("%d%d%d",&q,&l,&r);
+            l--; r--;
 
             if(q==1)
             {
-                int mx = 0;
-                for(i=s;i<=e;i++)
-                {
-                    mx = maximum(mx , LPD[a[i]]);
-                }
-                cout<<mx<<" ";
-
+                printf("%d ",query(l,r));
             }
+
             else
             {
-                for(i=s;i<=e;i++)
-                {
-                    a[i]=a[i]/LPD[a[i]];
-                }
-
-                cout<<"updated array ";
-                for(i=0;i<n;i++)
-                    cout<<a[i]<<" ";
-
-                cout<<endl;
+                updateRange(l,r);
             }
         }
 
-        cout<<endl;
+        printf("\n");
     }
 }
