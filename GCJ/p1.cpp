@@ -1,85 +1,100 @@
 //Nilanjana Lodh
 #include <bits/stdc++.h>
+#include <sstream>
 using namespace std;
 
 typedef long long int lli;
 typedef vector<int> vi;
 typedef vector<lli> vli;
+typedef vector<bool> vb;
 
 const lli inf= 9000000000000;
 const lli mod= 1000000007;
-
-int r,c;
-vector<vli> a;
-vector<vector<bool> > m;
-vector<vli> diag;
-vector<vli> top;
-vector<vli> lft;
 lli minimum(lli a, lli b)
 {
     if(a<b)return a;
     return b;
-
 }
-lli minimum(lli a , lli b, lli c)
+
+lli maximum(lli a, lli b)
 {
-    return minimum(a, minimum(b,c));
+    if(a>b)return a;
+    return b;
+}
+
+lli pow(lli a, lli b)
+{
+    if(b==0)
+        return 1;
+
+    lli ans = pow(a,b/2);
+    ans = (ans*ans)%mod;
+
+    if(b%2==1)ans= (ans*a)%mod;
+
+    return ans;
+}
+map <string, int> vocab;
+int v;
+string sent;
+int l; //length of string sent
+
+vi dp;
+int count(int start)
+{
+    if(start>=l) return 1;
+
+    if(dp[start]!=-1)
+        return dp[start];
+
+    int end;
+    dp[start] = 0;
+
+    string prefix;
+    int prefix_l = 0;
+    for(prefix_l = 1 ; (start+prefix_l-1 < l) && (prefix_l<=20) ; prefix_l++)
+    {
+        prefix= sent.substr(start,prefix_l);
+        sort(prefix.begin(),prefix.end());
+        //cout<<"prefix is "<<prefix<<endl;
+        map<string , int>::iterator it = vocab.find(prefix);
+        if(it !=vocab.end())
+            dp[start] = (dp[start] + (it->second)*count(start+prefix_l) % mod )%mod;
+//        else
+//            cout<<"  .. not found!"<<endl;
+    }
+    return dp[start];
+
 }
 int main()
 {
-    int t,T,x,y;
+
+    int T, i , t;
     cin>>T;
-    int i,j,k;
-    lli sum;
+    int s;// number of sentences
+    string x,y;
     for(t=1;t<=T;t++)
     {
-        cin>>r>>c>>k;
-        a= vector<vli>(r+1 , vli(c+1 ,0));
-        diag = vector<vli>(r+1 , vli(c+1,0));
-        top = vector<vli>(r+1 , vli(c+1,0));
-        lft = vector<vli>(r+1 , vli(c+1,0));
-        m = vector<vector<bool> >(r+1 , vector<bool>(c+1 , false));
-
-        while(k--)
+        cin>>v>>s;
+        //cout<<"hi"<<endl;
+        vocab.clear();
+        for(i=0;i<v;i++)
         {
-            cin>>x>>y;
-            m[x+1][y+1]= true;
+            cin>>x;
+            sort(x.begin(), x.end());
+            //cout<<x<<endl;
+            vocab[x]++;
+        }
+        cout<<"Case #"<<t<<": ";
+        for(i=0;i<s;i++)
+        {
+            cin>>sent; l = sent.size();
+            dp = vi(l+1 , -1);
+            cout<<count(0)<<" ";
         }
 
-        sum = 0;
-        lli tmp;
+        cout<<endl;
 
-        for(i=1;i<=r;i++)
-        {
-            for(j=1;j<=c;j++)
-            {
-                if(m[i][j])
-                {
-                    diag[i][j]= top[i][j] = lft[i][j] = 0 ;
-                    a[i][j]=0;
-                }
-                else
-                {
-                    diag[i][j] = 1+ diag[i-1][j-1];
-                    top[i][j] = 1 + top[i-1][j];
-                    lft[i][j] = 1 + lft[i][j-1];
-
-                    tmp = 1 + a[i-1][j-1] ;
-                    a[i][j]= minimum(tmp , lft[i][j] , top[i][j]);
-
-                    sum+=a[i][j];
-                }
-
-
-            }
-
-
-        }
-
-
-        cout<<"Case #"<<t<<": "<<sum<<endl;
-
-    }
-
-
+     }
+    return 0;
 }

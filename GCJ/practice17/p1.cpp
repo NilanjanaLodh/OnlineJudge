@@ -31,6 +31,10 @@ lli pow(lli a, lli b)
 
     return ans;
 }
+int new_fun()
+{
+    cout<<"Yay! .. this is so fun!"<<endl;
+}
 
 int main()
 {
